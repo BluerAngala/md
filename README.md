@@ -1,10 +1,4 @@
-<div align="center">
-
-[![multipost-md](./src/assets/images/favicon.png)](https://github.com/leaper-one/multipost-wechat-markdown-editor)
-
-</div>
-
-# MultiPost - Markdown 编辑器
+## MultiPost - Markdown 编辑器
 
 > 适配 MultiPost 文章同步助手
 
